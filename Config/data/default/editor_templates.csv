@@ -1,0 +1,12 @@
+"id","name","image","description","html","modified","created"
+"4","固定ページの基本テンプレート","","","<div class=""cover text-white text-center py-5"">
+<h1 class=""display-4 md-4"">タイトル</h1>
+
+<p class=""lead"">リード</p>
+</div>
+
+<div class=""container my-5 mx-5"">
+<h5>タイトル</h5>
+
+<p>本文</p>
+</div>","2018-04-09 11:38:25","2018-04-09 11:35:15"

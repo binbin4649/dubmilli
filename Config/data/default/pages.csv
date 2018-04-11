@@ -1,0 +1,920 @@
+"id","contents","draft","page_template","code","modified","created"
+"1","","","","","2018-04-04 13:25:26","2016-07-29 18:13:03"
+"3","<div class=""cover text-white text-center py-5"">
+<h1 class=""display-4 md-4"">ABOUT</h1>
+
+<p class=""lead"">会社概要</p>
+</div>
+
+<div class=""container mb-5"">
+<div class=""py-5"">
+<h5 class=""mb-4"">会社概要</h5>
+
+<table class=""table"">
+	<tbody>
+		<tr>
+			<td class=""text-sm-right nowrap"">会社名</td>
+			<td>合同会社ダブミリ　( dubmilli LLC. )</td>
+		</tr>
+		<tr>
+			<td class=""text-sm-right nowrap"">代表者</td>
+			<td>斉藤秀一</td>
+		</tr>
+		<tr>
+			<td class=""text-sm-right nowrap"">所在地</td>
+			<td>〒141-0031 東京都品川区西五反田1-13-7 マルキビル503 CONTENTZ</td>
+		</tr>
+		<tr>
+			<td class=""text-sm-right nowrap"">電話番号</td>
+			<td>03-6361-0405<br />
+			Mail : info@dubmilli.com<br />
+			<small>※なるべくメールにてご連絡お願い致します。</small></td>
+		</tr>
+		<!-- <tr>
+      <td class=""text-sm-right"">受付時間</td>
+      <td>平日10：00－18：00（土日祝日、年末年始、夏季休暇は休業）</td>
+    </tr> -->
+		<tr>
+			<td class=""text-sm-right nowrap"">設立</td>
+			<td>2018年4月2日</td>
+		</tr>
+		<tr>
+			<td class=""text-sm-right nowrap"">事業内容</td>
+			<td>
+			<ul>
+				<li>インターネットおよひ?情報システムを利用した顧客サーヒ?ス業務</li>
+				<li>インターネットのホームヘ?ーシ?の企画、設計、開発、販売、運用およひ? 保守に関する業</li>
+				<li>インターネットメテ?ィア事業</li>
+			</ul>
+			</td>
+		</tr>
+		<!-- <tr>
+      <td class=""text-sm-right"">資本金</td>
+      <td>100万円</td>
+    </tr> --><!-- <tr>
+      <td class=""text-sm-right"">従業員数</td>
+      <td>26名（2016年3月現在） 正社員20名(男10名、女10名)、パート社員6名(男3名、女3名)</td>
+    </tr> --><!-- <tr>
+      <td class=""text-sm-right"">売上高</td>
+      <td>5,900万円（2016年3月期）</td>
+    </tr> --><!-- <tr>
+      <td class=""text-sm-right"">主要取引先</td>
+      <td>○○エージェント　株式会社<br>△△システム</td>
+    </tr> --><!-- <tr>
+      <td class=""text-sm-right"">取引銀行</td>
+      <td>the Bird</td>
+    </tr> --><!-- <tr>
+      <td class=""text-sm-right"">許可・登録・免許</td>
+      <td>the Bird</td>
+    </tr> -->
+	</tbody>
+</table>
+</div>
+
+<div class=""container my-5"">
+<h5 class=""mb-4"">代表プロフィール</h5>
+
+<div class=""row"">
+<div class=""col-md-6"">
+<div class=""card bg-light mx-auto mb-3"" style=""width:18rem;"">
+<div class=""card-body"">
+<h5 class=""card-title"">Hideichi Saito</h5>
+
+<p class=""card-text"">PHP Programmer.</p>
+</div>
+
+<div class=""text-center mb-3""><!--                   <img class=""card-img-bottom"" src=""/img/IMG_6913.png"" alt=""Card image cap"" style=""width:70%;""> --><?php $this->BcBaser->img('/img/IMG_6913.png', array('class'=>'card-img-bottom', 'style'=>'width:70%')) ?></div>
+</div>
+</div>
+
+<div class=""col-md-6"">
+<div class=""card bg-light mb-3"">
+<div class=""card-header card-header-dub"">Personal links</div>
+
+<div class=""card-body"">
+<p class=""card-text""><a href=""https://twitter.com/binbin4649"" target=""_blank"">twitter.com/binbin4649</a><br />
+<a href=""https://www.facebook.com/hideichi.saito"" target=""_blank"">facebook.com/hideichi.saito</a><br />
+<a href=""https://github.com/binbin4649"" target=""_blank"">github.com/binbin4649</a><br />
+<a href=""http://hideichi.com/"" target=""_blank"">hideichi.com</a></p>
+</div>
+</div>
+</div>
+</div>
+
+<div class=""row"">
+<div class=""col-md-6"">
+<div class=""card bg-light mb-4"">
+<div class=""card-header card-header-dub"">Basic information</div>
+
+<div class=""card-body"">
+<p class=""card-text"">&nbsp;</p>
+
+<ul>
+	<li>名前：斉藤秀一</li>
+	<li>性：男</li>
+	<li>血液型：O型</li>
+	<li>1974年生：<a href=""https://ja.wikipedia.org/wiki/%E5%9B%A3%E5%A1%8A%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"" id=""external"" target=""_blank"">団塊ジュニア</a>、<a href=""https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%86%E3%82%A3%E3%83%8A%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA"" id=""external"" target=""_blank"">49ers</a></li>
+	<li>星座：しし座</li>
+	<li>新潟県新発田市生まれ、育ち、現在東京都品川区。</li>
+	<li>特技：手を使わずに座禅が組めます。</li>
+</ul>
+
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+
+<div class=""col-md-6"">
+<div class=""card bg-light mb-4"">
+<div class=""card-header card-header-dub"">Work information</div>
+
+<div class=""card-body"">
+<p class=""card-text"">WEBサービスを作っています。<br />
+PHPプログラマーを名乗っていますが、技術にこだわりはありません。 PHPだろうが、Rubyだろうが、そのサービスを使う人にとっては関係ない話です。 なるべく学習コストがかからず、かつなるべく長く使えそうな技術を選んでいます。 PHPプログラマーを名乗る理由は、「自分で考えて、自分で作ってます。」と伝えたいから。</p>
+
+<p class=""card-text"">baserCMSを使ったサイト構築、カスタマイズ等々、承ります。<br />
+現在、WEBサービスはbaserCMSをカスタマイズして作っています。 ある程度慣れているし、もっと極めたいので、baserCMSのお仕事なら喜んで引き受けます。<br />
+<a href=""/service"">SERVICE:ホームページ制作</a></p>
+</div>
+</div>
+</div>
+</div>
+
+<div class=""row"">
+<div class=""col-md-6"">
+<div class=""card bg-light mb-4"">
+<div class=""card-header card-header-dub"">Hobby</div>
+
+<div class=""card-body"">
+<p class=""card-text"">とりあえずビール、風呂上がりにビール。赤ワインと焼き鳥（タレ）。旨い日本酒と旨い肴（刺身）。<br />
+音楽：ケルティックから演歌まで。ハウス・テクノが多め。洋楽ならZZ-TOP、邦楽ならsion。<br />
+数学、宇宙、物理学を考えるのが好き。量子論と仏教って似てるなーと思ってから宗教にも興味を示す（学問として）。<br />
+好きな映画（初代）：ロボコップ（1のみ）<br />
+好きな映画（2代目）：ディープブルー<br />
+好きな映画（3代目）：オーシャンズ11、オーシャンズ12、オーシャンズ13</p>
+</div>
+</div>
+</div>
+
+<div class=""col-md-6"">
+<div class=""card bg-light mb-4"">
+<div class=""card-header card-header-dub"">Skill Set</div>
+
+<div class=""card-body"">
+<p class=""card-text"">PHP | <a href=""https://cakephp.org/jp"" id=""external"" target=""_blank"">CakePHP</a> | <a href=""https://basercms.net/"" id=""external"" target=""_blank"">baserCMS</a> | HTML | CSS | JavaScript | <a href=""https://jquery.com/"" id=""external"" target=""_blank"">jQuery</a> | <a href=""https://getbootstrap.com/"" id=""external"" target=""_blank"">Bootstrap</a> | Linux | Apache | MySQL</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class=""card bg-light mb-4"">
+<div class=""card-header card-header-dub"">History so far</div>
+
+<div class=""card-body"">
+<p class=""card-text"">1974年：八百屋の長男として生まれる。<br />
+1990年：競馬場、クリーニング工場、郵便局でアルバイト。<br />
+1991年：ケンタッキー・フライド・チキンでアルバイト。<br />
+1992年：モンキーで北海道一周、野宿・キャンプ場・ライダーズハウス、ユースホステルなどを転々としながら、30日単独ツーリング。<br />
+1993年：高等学校　商業科卒業。コンピュータ専門学校　OA科入学。<br />
+1994年：海の家でアルバイト。<br />
+1995年：専門学校卒業。地元の電子部品工場に入社。<br />
+2000年：ウルティマオンラインにはまる。<br />
+2003年：なぜかネックレスを作り、ネットで売り始める。&rarr;完売。<br />
+2004年：何かを勘違いして上京。アクセサリーの企画・製造・販売の会社に入社。ECサイトをDreamweaverで構築。<br />
+2005年：コーポレートサイト、ブランドサイトをFlashも取り入れて製作。社内システムをPHP,MySQLで構築。<br />
+2007年：EC年商1億達成。EC課が新設され課長に着任。ECサイト構築をレベニューシェアで外部委託。<br />
+2008年：コーポレートサイト、ブランドサイトを外部委託。プロジェクトリーダーを担当。<br />
+2010年：システム室が新設され室長に着任。CakePHPで社内システムを構築。<br />
+2011年：<a href=""http://savejapan.hideichi.com/"" id=""external"" target=""_blank"">東北関東大震災　義援金合計額</a>　企画・製作・ディレクション。震災の翌々日から着手し、次々に有志があつまり形になった。未だに有志達には会ったことがない。<br />
+2011年： outloger.com：CakePHPとJQueryで作製。「検索結果を外にログする」という意味でアウトロガー。最大月間2万PV。これがきっかけでCakePHPの講師を務める。現在削除。<br />
+2011年： <a href=""https://swtokyo.doorkeeper.jp/events/122"" id=""external"" target=""_blank"">Startup Weekend Tokyo at Open Network Lab</a>に参加。 <a href=""https://colish.net/"" id=""external"" target=""_blank"">[Colish]コリッシュ</a>チームに入り、コーディングを担当。現在は参画していない。<br />
+2012年：<a href=""http://pochitter.com/"" id=""external"" target=""_blank"">Pochitter</a> 4つのボタンを選んで押すだけ、簡単ツイッター。やばいボタンなど。(公開終了)<br />
+2013年：IPOに向け基幹システムを全面刷新。プロジェクトマネージャーを担当。<br />
+2015年：<a href=""http://bookbookmaker.com/"" id=""external"" target=""_blank"">bookbookmaker</a> ソーシャルベッティング。仮想ブックメーカー。 <a href=""http://odesk.com"" id=""external"" target=""_blank"">odesk.com</a> を使ってロシア、インド、フィリピン、マレーシアなどのエンジニアと協働で作った。（運用停止中）<br />
+2015年：<a href=""https://morningcall.center/"" id=""external"" target=""_blank"">モーニングコールセンター</a> 朝、電話で起こすサービス。初めての課金サービス。<br />
+2017年：退職。<br />
+2018年：<a href=""https://pr-bazooka.com/"" id=""external"" target=""_blank"">PRバズーカ</a>　プレスリリース配信サービス。詰め込みすぎてさっぱり響かず。作り直しを検討中。</p>
+
+<p>個人制作のWEBサービスはこれ以外にも一杯作ってたけど、思い出せるものだけ書いてみました。</p>
+</div>
+</div>
+</div>
+</div>","","","","2018-04-11 13:59:21","2016-07-29 18:14:33"
+"4","<div class=""cover text-white text-center py-5"">
+				<h1 class=""display-4 md-4"">SERVICE</h1>
+				<p class=""lead"">ホームページ制作</p>
+			</div>
+			<div class=""container mb-5"">
+				<div class=""py-5"">
+				<h5 class=""mb-4 mx-md-3"">料金表</h5>
+        <div class=""row mx-md-3"">
+          <div class=""col-md-6"">
+            <table class=""table"">
+    				  <tbody>
+    				    <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#basic_pack"" id=""swing"">ホームページ基本パック</a></td>
+    				      <td>￥50,000</td>
+    				    </tr>
+    				    <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#maintenance_month"" id=""swing"">保守サービス（月額）</a></td>
+    				      <td>￥5,000～</td>
+    				    </tr>
+    				    <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#maintenance_year"" id=""swing"">保守サービス（年額）</a></td>
+    				      <td>￥50,000～</td>
+    				    </tr>
+                <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#theme_custom"" id=""swing"">テーマカスタマイズ</a></td>
+    				      <td>￥10,000～</td>
+    				    </tr>
+                <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#theme_new"" id=""swing"">テーマ新規作成</a></td>
+    				      <td>￥100,000～</td>
+    				    </tr>
+                <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#plugin_custom"" id=""swing"">プラグインカスタマイズ</a></td>
+    				      <td>￥10,000～</td>
+    				    </tr>
+                <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#plugin_new"" id=""swing"">プラグイン新規作成</a></td>
+    				      <td>￥100,000～</td>
+    				    </tr>
+    				  </tbody>
+    				</table>
+          </div>
+          <div class=""col-md-6"">
+            <table class=""table"">
+    				  <tbody>
+                <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#logo_create"" id=""swing"">ロゴ作成</a></td>
+    				      <td>￥30,000</td>
+    				    </tr>
+                <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#bana_create"" id=""swing"">バナー・グラフィック作成</a></td>
+    				      <td>￥30,000～</td>
+    				    </tr>
+                <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#photo_create"" id=""swing"">写真撮影・加工</a></td>
+    				      <td>￥50,000～</td>
+    				    </tr>
+                <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#write_create"" id=""swing"">原稿・コピー作成</a></td>
+    				      <td>￥10,000～</td>
+    				    </tr>
+                <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#sns_create"" id=""swing"">SNSアカウント作成</a></td>
+    				      <td>￥20,000～</td>
+    				    </tr>
+                <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#seo_create"" id=""swing"">SEO対策</a></td>
+    				      <td>￥40,000～</td>
+    				    </tr>
+                <tr>
+    				      <td class=""text-sm-right nowrap""><a href=""#add_work"" id=""swing"">追加作業（人日）</a></td>
+    				      <td>￥40,000～</td>
+    				    </tr>
+    				  </tbody>
+    				</table>
+          </div>
+        </div>
+				</div>
+        <h5 class=""mb-4 mx-lg-3 h2_dub"" id=""basic_pack"">ホームページ基本パック ￥50,000</h5>
+        <div class=""row my-3 mx-md-3"">
+          <div class=""col-md-6"">
+            <h5>【作業内容】</h5>
+              <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse1"" aria-expanded=""false"" aria-controls=""collapse1"">
+                <i class=""fas fa-chevron-down""></i> 1,ドメイン取得</a>
+            <div class=""collapse"" id=""collapse1"">
+              <div class=""card card-body"">
+                最初のメールのやり取りで取得するドメインを決め、取得を代行いたします。以降、保守契約で維持・管理致します。
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse2"" aria-expanded=""false"" aria-controls=""collapse2"">
+              <i class=""fas fa-chevron-down""></i> 2,サーバ作成・準備</a>
+            <div class=""collapse"" id=""collapse2"">
+              <div class=""card card-body"">
+                当社指定のサーバを用意、準備いたします。以降、保守契約で維持・管理致します。
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse3"" aria-expanded=""false"" aria-controls=""collapse3"">
+              <i class=""fas fa-chevron-down""></i> 3,データベース作成・準備</a>
+            <div class=""collapse"" id=""collapse3"">
+              <div class=""card card-body"">
+                サーバにデータベース(DB)を作成、DBユーザーも同時に作成します。
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse4"" aria-expanded=""false"" aria-controls=""collapse4"">
+              <i class=""fas fa-chevron-down""></i> 4,DNS設定</a>
+            <div class=""collapse"" id=""collapse4"">
+              <div class=""card card-body"">
+                ドメインとサーバの紐付けを行います。
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse5"" aria-expanded=""false"" aria-controls=""collapse5"">
+              <i class=""fas fa-chevron-down""></i> 5,SSL設定</a>
+            <div class=""collapse"" id=""collapse5"">
+              <div class=""card card-body"">
+                無料のSSL証明書を使用して、SSL通信の設定を行います。
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse6"" aria-expanded=""false"" aria-controls=""collapse6"">
+              <i class=""fas fa-chevron-down""></i> 6,baserCMSインストール</a>
+            <div class=""collapse"" id=""collapse6"">
+              <div class=""card card-body"">
+                特に指定がない場合は、最新版のbaserCMSをインストールいたします。
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse7"" aria-expanded=""false"" aria-controls=""collapse7"">
+              <i class=""fas fa-chevron-down""></i> 7,baserCMS初期設定</a>
+            <div class=""collapse"" id=""collapse7"">
+              <div class=""card card-body"">
+                baserCMSを動作させるための初期設定を行います。
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse8"" aria-expanded=""false"" aria-controls=""collapse8"">
+              <i class=""fas fa-chevron-down""></i> 8,メールアドレス設定</a>
+            <div class=""collapse"" id=""collapse8"">
+              <div class=""card card-body"">
+                ご希望を伺って、メールアドレスを作成いたします。
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse9"" aria-expanded=""false"" aria-controls=""collapse9"">
+              <i class=""fas fa-chevron-down""></i> 9,メーラー選定・設定</a>
+            <div class=""collapse"" id=""collapse9"">
+              <div class=""card card-body"">
+                メーラーはGmailをお薦めしております。PC・スマホの設定、操作説明も同時に行います。
+                <a href=""https://mail.google.com/?hl=ja"" class=""card-link"" target=""_blank"" id=""external"">Gmail</a>
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse10"" aria-expanded=""false"" aria-controls=""collapse10"">
+              <i class=""fas fa-chevron-down""></i> 10,ユーザー追加</a>
+            <div class=""collapse"" id=""collapse10"">
+              <div class=""card card-body"">
+                ご希望を伺い、baserCMSのユーザー登録を行います。
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse11"" aria-expanded=""false"" aria-controls=""collapse11"">
+              <i class=""fas fa-chevron-down""></i> 11,テーマ選定・インストール</a>
+            <div class=""collapse"" id=""collapse11"">
+              <div class=""card card-body"">
+                ご希望を伺いテーマを選定、インストールします。
+                <a href=""https://market.basercms.net/products/list.php?category_id=2"" class=""card-link"" target=""_blank"" id=""external"">テーマ一覧</a>
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse12"" aria-expanded=""false"" aria-controls=""collapse12"">
+              <i class=""fas fa-chevron-down""></i> 12,プラグイン選定・インストール</a>
+            <div class=""collapse"" id=""collapse12"">
+              <div class=""card card-body"">
+                ご希望を伺いプラグインを選定、インストールします。
+                <a href=""https://market.basercms.net/products/list.php?category_id=1"" class=""card-link"" target=""_blank"" id=""external"">プラグイン一覧</a>
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse13"" aria-expanded=""false"" aria-controls=""collapse13"">
+              <i class=""fas fa-chevron-down""></i> 13,Googleアカウント登録</a>
+            <div class=""collapse"" id=""collapse13"">
+              <div class=""card card-body"">
+                作成したメールアドレスでgoogleアカウントを作成します。
+                <a href=""https://accounts.google.com/SignUp?hl=ja"" class=""card-link"" target=""_blank"" id=""external"">googleアカウント作成</a>
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse14"" aria-expanded=""false"" aria-controls=""collapse14"">
+              <i class=""fas fa-chevron-down""></i> 14,Google Analytics設定</a>
+            <div class=""collapse"" id=""collapse14"">
+              <div class=""card card-body"">
+                Google Analyticsの設定、解析タグを設置します。
+                <a href=""https://www.google.com/intl/ja/analytics/search.html"" class=""card-link"" target=""_blank"" id=""external"">Google Analytics</a>
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse15"" aria-expanded=""false"" aria-controls=""collapse15"">
+              <i class=""fas fa-chevron-down""></i> 15,favicon差替</a>
+            <div class=""collapse"" id=""collapse15"">
+              <div class=""card card-body"">
+                タブなどに表示される小さなアイコンのことです。簡単なfaviconをその場で作成いたします。
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse16"" aria-expanded=""false"" aria-controls=""collapse16"">
+              <i class=""fas fa-chevron-down""></i> 16,画像差替、文言修正</a>
+            <div class=""collapse"" id=""collapse16"">
+              <div class=""card card-body"">
+                テーマ画像の差替、文言修正など、予め用意していただくか、その場で伺いながら行います。
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse17"" aria-expanded=""false"" aria-controls=""collapse17"">
+              <i class=""fas fa-chevron-down""></i> 17,metaタグ設定</a>
+            <div class=""collapse"" id=""collapse17"">
+              <div class=""card card-body"">
+                metaタグを設定いたします。
+              </div>
+            </div>
+            <br>
+            <a id=""chevron-down"" data-toggle=""collapse"" href=""#collapse18"" aria-expanded=""false"" aria-controls=""collapse18"">
+              <i class=""fas fa-chevron-down""></i> 18,CMS操作説明</a>
+            <div class=""collapse"" id=""collapse18"">
+              <div class=""card card-body"">
+                baserCMSの操作説明を行います。おそらくこれが一番時間がかかるはずです。
+              </div>
+            </div>
+          </div>
+          <div class=""my-3 col-md-6"">
+            <p>
+              新規開業、はじめてのホームページにぴったりのプランです。<br>
+              事前準備のあと、訪問しお話を伺いながら1日でホームページを作ります。<br>
+              <a href=""https://basercms.net/"" target=""_blank"" id=""external"">baserCMS</a>を使用して構築、
+              以降の更新・修正などはご自身で行えます。
+            </p>
+            <p>
+              基本パックの作成規模は5ページ程度になります。<br>
+              <small>
+              <ul>（例）
+                <li>一般企業
+                  <ul>
+                    <li>トップページ</li>
+                    <li>会社概要</li>
+                    <li>業務内容・事業案内</li>
+                    <li>最新情報・ニュース</li>
+                    <li>お問合せ</li>
+                  </ul>
+                </li>
+                <li>店舗（飲食店、美容室など）
+                  <ul>
+                    <li>トップページ</li>
+                    <li>営業案内、アクセス</li>
+                    <li>メニュー・コース</li>
+                    <li>最新情報・ニュース</li>
+                    <li>お問合せ</li>
+                  </ul>
+                </li>
+              </ul>
+            </small>
+            </p>
+          </div>
+        </div>
+        <div class=""py-3 mx-md-3"">
+          <h5>【制作の流れ】</h5>
+          <div class=""card mx-md-5"">
+            <div class=""card-body"">
+              <h5 class=""card-title"">1, 見積依頼</h5>
+              <p class=""card-text"">お問合せから、見積依頼を送信お願いします。折り返し作業内容の確認を返信いたします。</p>
+            </div>
+          </div>
+          <div class=""card mx-md-5"">
+            <div class=""card-body"">
+              <h5 class=""card-title"">2, 作業確認　<i class=""fas fa-arrow-right""></i>　見積書</h5>
+              <p class=""card-text"">作業内容が決まりましたら見積書をお送りいたします。見積は無料です。お気軽にご依頼ください。</p>
+            </div>
+          </div>
+          <div class=""card mx-md-5"">
+            <div class=""card-body"">
+              <h5 class=""card-title"">3, 訪問日を決めます</h5>
+              <p class=""card-text"">見積書ご確認の上、お申込み頂き訪問日、またはご来社日を取り決めます。<br>
+                契約書のコピーを予めお送りしますのでご確認ください。当日ご捺印頂きます。<br>
+                訪問日までこちらで「baserCMS初期設定」まで済ませておきます。
+              </p>
+              <p class=""card-text"">
+                【訪問可能地域】東京23区、神奈川県川崎市・横浜市<br>
+                <small>上記以外の地域に関しては、交通費の実費を請求させて頂きます。<br>
+                ご来社の場合、弊社オフィス（東京都品川区西五反田）までお願い致します。</small>
+              </p>
+            </div>
+          </div>
+          <div class=""card mx-md-5"">
+            <div class=""card-body"">
+              <h5 class=""card-title"">4, お伺い致します</h5>
+              <p class=""card-text"">訪問日に細かなお話を伺いながら残りの作業を行います。同時にbaserCMSの操作説明も行います。<br>
+                準備・設定に2～4時間、操作説明に4～6時間、合計1日8時間。<br>
+                これが作業時間の目安となりますが、時間があればデザイン修正や機能追加なども承ります。
+              </p>
+            </div>
+          </div>
+          <div class=""card mx-md-5"">
+            <div class=""card-body"">
+              <h5 class=""card-title"">5, 完成</h5>
+              <p class=""card-text"">基本パックの作業は以上になります。訪問日の当日中にホームページの公開が可能です。
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class=""py-3 mx-md-3 text-center"">
+          <a class=""btn btn-secondary btn-lg mb-3"" href=""/contact/"" role=""button"">お問合せ</a>
+          <div class=""read"">
+            内容に「見積依頼」と入力して送信お願いします。
+          </div>
+          <hr>
+        </div>
+        <div class=""py-3 mx-md-3"">
+          <h6>【注意事項】</h6>
+          <ul>
+            <li>コンテンツ・素材（ロゴ、原稿、コピー、写真、バナーなど）は、基本的にお客様側でご用意お願いしております。<br>
+              作成が必要であれば別途見積いたします。有料のテーマ・プラグイン、有料の素材等も実費を請求させて頂きます。
+            </li>
+            <li>基本的に保守サービスも一緒にご契約頂きます。保守サービスが必要ない場合は別途見積させて頂きます。</li>
+            <li>訪問日1日8時間でお客様のご要望が多いことにより、残作業が発生する場合は別途見積となる場合がございます。予めご了承ください。
+            </li>
+            <li>その他デザイン修正、機能の追加・修正、追加の操作説明、SEO対策、既存サイトからのデータ移行など、必要であれば1日4万円の追加費用（別途見積）でお受けいたします。</li>
+          </ul>
+        </div>
+        <div class=""py-4"">
+          <h5 class=""my-4 mx-md-3 h2_dub"" id=""maintenance_month"">保守サービス（月額） ￥5,000～</h5>
+          <div class=""row mx-md-3"">
+            <div class=""col-md-6"">
+              <h6>保守サービス料金（ランニングコスト含む）</h6>
+              <ul>
+                <li>月2万pvまで：月額￥5,000</li>
+                <li>月5万pvまで：月額￥10,000</li>
+                <li>月5万pv以上：月額￥10,000～応相談</li>
+              </ul>
+              <h6>ランニングコスト内訳</h6>
+              <ul>
+                <li>サーバ代</li>
+                <li>ドメイン代</li>
+                <li>バックアップサーバ代</li>
+                <li>サポート作業料</li>
+                <small>※サーバ、ドメインは第3者事業者様のサービスを利用します。</small>
+              </ul>
+            </div>
+            <div class=""col-md-6"">
+              <h6>保守サービス内容</h6>
+              <ul>
+                <li>定時バックアップ</li>
+                <li>障害対応・バックアップのリストア</li>
+                <li>CMSバージョンアップ対応</li>
+                <li>プラグインバージョンアップ対応</li>
+                <li>メールアドレスの追加、削除、パスワード再設定等</li>
+                <li>メールでの運用サポート、CMS操作説明</li>
+                <small>メールアドレスの設定、運用サポートは、月5件程度まで。</small>
+              </ul>
+              <p>訪問サポート、運用代行なども見積いたします。</p>
+            </div>
+          </div>
+        </div>
+        <div class=""py-4"">
+          <div class=""row mx-md-3"">
+            <div class=""col-md-6"">
+              <h5 class=""my-4 mx-md-3 h2_dub"" id=""maintenance_year"">保守サービス（年額） ￥50,000～</h5>
+              <p>保守サービスの年間契約を頂けましたら、2ヶ月分割引いたします。<br>
+                お支払は前払いになります。
+              </p>
+            </div>
+            <div class=""col-md-6"">
+              <h5 class=""my-4 mx-md-3 h2_dub"" id=""theme_custom"">テーマカスタマイズ ￥10,000～</h5>
+              <div class=""mx-md-3"">
+                <p>既存テーマをご要望に合わせてカスタマイズいたします。
+                  <ul>
+                    <li>テキストの位置、色、大きさを変えたい。</li>
+                    <li>画像・バナーの位置、大きさを変えたい。</li>
+                    <li>空白・スペースを調整したい。</li>
+                    <li>リンクの位置、色などを変えたい。</li>
+                  </ul>
+                  などなど見た目、デザインのちょっとした修正をいたします。<br>
+                  <a href=""https://market.basercms.net/products/list.php?category_id=2"" target=""_blank"" id=""external"">テーマ一覧</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""py-4"">
+          <div class=""row mx-md-3"">
+            <div class=""col-md-6"">
+              <h5 class=""my-4 mx-md-3 h2_dub"" id=""theme_new"">テーマ新規作成 ￥100,000～</h5>
+              <p>デザインの修正要件が多い場合は、テーマの新規作成をお薦めいたします。<br>
+                企画・ワイヤーフレーム作成・コーディング・実装まで、1から作成いたしますので、ご希望のホームページに仕上がります。
+              </p>
+            </div>
+            <div class=""col-md-6"">
+              <h5 class=""my-4 mx-md-3 h2_dub"" id=""plugin_custom"">プラグインカスタマイズ ￥10,000～</h5>
+              <div class=""mx-md-3"">
+                <p>既存プラグインを、ご要望に合わせてカスタマイズいたします。<br>
+                  どのような機能が必要なのか、ご相談ください。<br>
+                  <a href=""https://market.basercms.net/products/list.php?category_id=1"" target=""_blank"" id=""external"">プラグイン一覧</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""py-4"">
+          <div class=""row mx-md-3"">
+            <div class=""col-md-6"">
+              <h5 class=""my-4 mx-md-3 h2_dub"" id=""plugin_new"">プラグイン新規作成 ￥100,000～</h5>
+              <p>無いプラグインは、新規に作成いたします。
+                <ul>
+                  <li>メニュー・コースなどこまめに更新したいが、HTMLは一切分からない。</li>
+                  <li>Q&Aなど、頻繁に更新するが、HTMLは自信がない。</li>
+                  <li>最新情報の投稿とツイッターを連動させたい。</li>
+                  <li>googleカレンダーと連携させたい。</li>
+                </ul>
+                などなど機能の追加はプラグインで対応可能です。<br>
+                メニュー管理、コース管理、Q&A管理などのプラグインを作成すれば、更新作業が楽になります。<br>
+                他システムとの連携も可能です、ご相談ください。
+              </p>
+            </div>
+            <div class=""col-md-6"">
+              <h5 class=""my-4 mx-md-3 h2_dub"" id=""logo_create"">ロゴ作成 ￥30,000</h5>
+              <div class=""mx-md-3"">
+                <p>テイスト、イメージなどのご希望と、参考にしたいロゴなどを伺い、作成致します。<br>
+                  初めに2案以上提出し、修正・調整は2回までお受けいたします。(*1
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""py-4"">
+          <div class=""row mx-md-3"">
+            <div class=""col-md-6"">
+              <h5 class=""my-4 mx-md-3 h2_dub"" id=""bana_create"">バナー・グラフィック作成 ￥30,000～</h5>
+              <p>バナー、グラフィック、イラスト、挿絵、素材加工など見積いたします。<br>
+                サイズ、枚数などによって金額が変わってきます。同デザインのサイズ違いも別料金になります。<br>
+                ご希望をお伺いし、初めに2案、修正・調整は2回までお受けいたします。(*1
+              </p>
+            </div>
+            <div class=""col-md-6"">
+              <h5 class=""my-4 mx-md-3 h2_dub"" id=""photo_create"">写真撮影・加工 ￥50,000～</h5>
+              <div class=""mx-md-3"">
+                <p>スタッフ撮影、店舗撮影、会社の様子撮影など、<br>
+                  撮影対象などをお伺いして出張撮影、スタジオ・モデルなどの手配まで見積いたします。(*1
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""py-4"">
+          <div class=""row mx-md-3"">
+            <div class=""col-md-6"">
+              <h5 class=""my-4 mx-md-3 h2_dub"" id=""write_create"">原稿・コピー作成 ￥10,000～</h5>
+              <p>スタッフ紹介、店舗紹介、事業案内など、取材させていただきホームページに適した原稿に仕上げます。<br>
+                ページ数、文量、専門用語の有無などによって金額が変わります。修正・調整を2回までお受けいたします。
+              </p>
+            </div>
+            <div class=""col-md-6"">
+              <h5 class=""my-4 mx-md-3 h2_dub"" id=""sns_create"">SNSアカウント作成 ￥20,000～</h5>
+              <div class=""mx-md-3"">
+                <p>作成したメールアドレスで各種SNSアカウントの取得を代行いたします。<br>
+                  ホームページへのシェアボタンの設置、ogタグの設置なども行います。
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""py-4"">
+          <div class=""row mx-md-3"">
+            <div class=""col-md-6"">
+              <h5 class=""my-4 mx-md-3 h2_dub"" id=""seo_create"">SEO対策 ￥40,000～</h5>
+              <p>狙ったキーワードで、検索結果の上位表示の対策を行います。<br>
+                企画、狙うキーワード、対策内容によって金額が変わってきます。<br>
+                成果報酬型での提案も可能です。ご相談ください。
+              </p>
+            </div>
+            <div class=""col-md-6"">
+              <h5 class=""my-4 mx-md-3 h2_dub"" id=""add_work"">追加作業（人日） ￥40,000～</h5>
+              <div class=""mx-md-3"">
+                <p>追加の操作説明、既存サイトの引っ越し、データ移行なども見積いたします。<br>
+                  料金表にない作業も、1日（8時間）単価4万円でお受けいたします。ご相談ください。
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""py-4 mx-md-3"">
+          <p><h6>正直な話</h6>
+            レンタルサーバーをご自身で契約し、CMSをご自身でインストール・設定すれば、初期費用無し、月額500円程度で更新できるホームページを作ることができます。<br>
+            簡単にインストールできる、インストーラー付きのレンタルサーバーもありますので、ある程度慣れた方で、マニュアルをよく読めばそれほど難易度は高くないと思います。<br>
+            少しでも節約したい方は、こちらをお勧めします。
+          </p>
+          <p>
+            例）インストーラー付きのレンタルサーバー<br>
+            <a href=""https://lolipop.jp/manual/user/applications-bc/"" target=""_blank"" id=""external"">https://lolipop.jp/manual/user/applications-bc/</a>
+          </p>
+          <p>
+            デザイン、機能の追加・修正、保守サービス、自信が無いからお願いしたいなどのご用命がありましたら、ぜひ当サービスをご利用くださいませ。<br>
+            お問い合わせお待ちしております。
+          </p>
+          <p>
+            <h6>さらに正直な話</h6>
+            (*1　これらは外注にだします。なので少し割高な価格設定になります。当社はディレクションを行います。<br>
+            面倒じゃない、時間もある、という場合は直接依頼していただき、成果物だけ渡していただいても結構です。<br>
+            ネットで検索すれば業者がたくさん出てきます。3～4割は料金を抑えられると思います。<br>
+            それでも「面倒だ！」「時間がない！」という場合はどうぞご依頼ください。<br>
+          </p>
+          <div class=""py-3 mx-md-3 text-center"">
+            <a class=""btn btn-secondary btn-lg mb-3"" href=""/contact/"" role=""button"">お問合せ</a>
+            <div class=""read"">
+              内容に「見積依頼」と入力して送信お願いします。
+            </div>
+          </div>
+          <div class=""py-3"">
+            <h5 class=""h2_dub my-3"">BaserCMS専門について</h5>
+            <p>
+            当社で取り扱うCMSは、<a href=""https://basercms.net/"" target=""_blank"" id=""external"">baserCMS</a>のみです。<br>
+            専門性を増し、特化することでより質の高いサービスを提供できる。<br>
+            このような想いから、「BaserCMS専門」を謳っております。
+            </p>
+            <p>
+            BaserCMSは、日本で人気のPHPフレームワークであるCakePHPを土台にした、純国産のCMSです。<br>
+            それは日本人の要求沿って作られたCMSであり、日本に最適化されたCMSでもあります。<br>
+            BaserCMSの構築、運用、機能追加、カスタマイズなどのご用命がありましたら、ぜひ当社をご検討くださいませ。
+            </p>
+          </div>
+        </div>
+			</div>","","","","2018-04-11 14:00:20","2016-07-29 18:15:14"
+"5","<h2 class=""contents-head"">サイトマップ</h2>
+
+<div class=""section sitemap""><?php $this->BcBaser->sitemap() ?></div>","","","","2018-04-01 17:55:50","2016-07-29 18:15:50"
+"6","<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<div style=""text-align:center;background-color:#8ABE08;""><span style=""color:white;"">メインメニュー</span></div>
+
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<p><span style=""color:#8ABE08"">■</span> <?php $this->BcBaser->link(""ニュースリリース"",array(""controller""=>""news"",""action""=>""index"")) ?><br />
+<span style=""color:#8ABE08"">■</span> <?php $this->BcBaser->link(""お問い合わせ"",array(""controller""=>""contact"",""action""=>""index"")) ?></p>
+
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<div style=""text-align:center;background-color:#8ABE08;""><span style=""color:white;"">NEWS RELEASE</span></div>
+
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" /><?php $this->BcBaser->blogPosts('news', 5) ?>
+<div>&nbsp;</div>
+
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<div style=""text-align:center;background-color:#8ABE08;""><span style=""color:white;"">baserCMS NEWS</span></div>
+
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" /><?php $this->BcBaser->feed(1) ?>","","","","2016-07-29 18:19:04","2016-07-29 18:18:05"
+"7","<div class=""clearfix"" id=""news"">
+<div class=""news"" style=""margin-right:28px;"">
+<h2 id=""newsHead01"">NEWS RELEASE</h2>
+
+<div class=""body""><?php $this->BcBaser->blogPosts('news', 5) ?></div>
+</div>
+
+<div class=""news"">
+<h2 id=""newsHead02"">baserCMS NEWS</h2>
+
+<div class=""body""><?php $this->BcBaser->js('/s/feed/ajax/1') ?></div>
+</div>
+</div>","","","","2016-07-29 18:22:39","2016-07-29 18:19:54"
+"8","<h2 class=""contents-head"">会社案内</h2>
+
+<h3 class=""contents-head"">会社データ</h3>
+
+<div class=""section"">
+<table cellpadding=""0"" cellspacing=""0"" class=""row-table-01"">
+	<tbody>
+		<tr>
+			<th width=""150"">会社名</th>
+			<td>baserCMS inc. [デモ]</td>
+		</tr>
+		<tr>
+			<th>設立</th>
+			<td>2009年11月</td>
+		</tr>
+		<tr>
+			<th>所在地</th>
+			<td>福岡県福岡市博多区博多駅前（ダミー）</td>
+		</tr>
+		<tr>
+			<th>事業内容</th>
+			<td>インターネットサービス業（ダミー）<br />
+			WEBサイト制作事業（ダミー）<br />
+			WEBシステム開発事業（ダミー）</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class=""contents-head"">アクセスマップ</h3>
+
+<div class=""section""><?php $this->BcBaser->googleMaps(array(""width"" => 585)) ?></div>","","","","2016-07-29 18:22:21","2016-07-29 18:20:18"
+"9","<h2 class=""contents-head"">サービス</h2>
+
+<div class=""section"">
+<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+</div>
+
+<div class=""section"">
+<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+</div>
+
+<div class=""section"">
+<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+</div>","","","","2016-07-29 18:22:05","2016-07-29 18:20:35"
+"10","<h2>アイコンの使い方</h2>
+
+<h3>50種類のアイコンを自由にカスタマイズしよう。</h3>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>まずは、<a href=""http://basercms.net/files/extra/nada-works-png.zip"">nada-works-png.zip</a> をダウンロードして解凍します。</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>icons_ico_.pngをFireworksで開くと下記の50種類のアイコンがレイヤー分けされています。</p>
+
+<p>&nbsp;</p>
+
+<p style=""text-align: center;""><?php $this->BcBaser->img('icons/about_001.png', array('style' => 'width: 656px; height: 250px;')) ?></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>カスタマイズ1：ベースの形を変える。</p>
+
+<p style=""text-align: center;""><?php $this->BcBaser->img('icons/about_002.png', array('style' => 'width: 656px; height: 93px;')) ?></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>カスタマイズ2：色を変える。</p>
+
+<p style=""text-align: center;""><?php $this->BcBaser->img('icons/about_003.png', array('style' => 'width: 656px; height: 93px;')) ?></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>カスタマイズ3：パスを使って変形させる。（上級者向け）<br />
+パスで作成しています。自由に変形させることが可能です。</p>
+
+<p>&nbsp;</p>
+
+<p style=""text-align: center;""><?php $this->BcBaser->img('icons/about_004.png', array('style' => 'width: 193px; height: 186px;')) ?></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>パターン例：各コンテンツで色を変える。同じアイコンを使用する、など</p>
+
+<p style=""text-align: center;""><?php $this->BcBaser->img('icons/about_005.png', array('style' => 'width: 656px; height: 215px;')) ?></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h3>文字と写真を変えるだけで完成！かんたんバナーを作ろう。</h3>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>icons_banner_00.png、icons_banner_l_00.pngをFireworksで開くと各要素をレイヤー分けされています。<br />
+言葉、フォント、色、画像を変更してオリジナルのバナーを作成することができます。<br />
+画像は「シンボル」にて配置しています。差し替えたい画像をシンボル化し、「シンボルを入れ替え」にて差し替えてご使用ください。</p>
+
+<p>&nbsp;</p>
+
+<p style=""text-align: center;""><?php $this->BcBaser->img('icons/about_006.png', array('style' => 'width: 656px; height: 302px;')) ?></p>
+
+<p>&nbsp;</p>
+
+<p>例：言葉、フォントの変更、画像差し替え</p>
+
+<p>&nbsp;</p>
+
+<p style=""text-align: center;""><?php $this->BcBaser->img('icons/about_007.png', array('style' => 'width: 656px; height: 278px;')) ?></p>","","","","2016-07-29 18:21:48","2016-07-29 18:20:50"
+"11","<h2 class=""contents-head"">サイトマップ</h2>
+<div class=""section sitemap"">
+<?php $this->BcBaser->sitemap(2) ?>
+</div>","","","","2016-07-29 18:21:31","2016-07-29 18:21:04"
+"34","<div class=""cover text-white text-center py-5"">
+<h1 class=""display-4 md-4"">タイトル</h1>
+
+<p class=""lead"">リード</p>
+</div>
+
+<div class=""container my-5 mx-3"">
+<h5>タイトル</h5>
+
+<p>本文</p>
+</div>","","","","2018-04-09 11:35:53","2018-04-09 11:24:30"

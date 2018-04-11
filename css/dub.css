@@ -1,0 +1,257 @@
+html {
+    margin-top: 0px;
+}
+
+#pageTop {
+  position: fixed;
+  bottom: 5px;
+  right: 15px;
+}
+#pageTop i {
+  padding-top: 1px
+}
+#pageTop a {
+  display: block;
+  z-index: 999;
+  padding: 5px 0 0 0;
+  width: 35px;
+  height: 35px;
+  background-color: gray;
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+}
+#pageTop a:hover {
+  text-decoration: none;
+  opacity: 0.7;
+}
+
+a[id="external"]::before{
+  font-family: "Font Awesome 5 Free";
+  margin-right: 3px;
+  content: "\f35d";
+  display: inline-block;
+  vertical-align: -1px;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-weight: bold;
+}
+
+a[id="swing"]::after{
+  font-family: "Font Awesome 5 Free";
+  margin-left: 3px;
+  content: "\f103";
+  display: inline-block;
+  vertical-align: -1px;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-weight: bold;
+}
+#swing {
+  color:inherit;
+}
+#swing:hover {
+  color: gray;
+}
+
+a[href="https://twitter.com/binbin4649"]::before{
+  font-family: "Font Awesome 5 Brands";
+  margin-right: 3px;
+  content: "\f099";
+  display: inline-block;
+  vertical-align: -1px;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-weight: bold;
+}
+a[href="https://www.facebook.com/hideichi.saito"]::before{
+  font-family: "Font Awesome 5 Brands";
+  margin-right: 3px;
+  content: "\f09a";
+  display: inline-block;
+  vertical-align: -1px;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-weight: bold;
+}
+a[href="https://github.com/binbin4649"]::before{
+  font-family: "Font Awesome 5 Brands";
+  margin-right: 3px;
+  content: "\f09b";
+  display: inline-block;
+  vertical-align: -1px;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-weight: bold;
+}
+a[href="http://hideichi.com/"]::before{
+  font-family: "Font Awesome 5 Brands";
+  margin-right: 3px;
+  content: "\f19a";
+  display: inline-block;
+  vertical-align: -1px;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-weight: bold;
+}
+
+#chevron-down {
+  color: inherit;
+}
+#chevron-down:hover {
+  color: gray;
+}
+
+.cover {
+  background-color: grey;
+  background-size: cover;
+}
+.navbar-brand-dub {
+  font-weight: bold;
+}
+.h2_dub {
+  border-bottom: 1px solid silver;
+  padding-bottom: 0.5rem;
+}
+.a-dub {
+  color: inherit;
+}
+.a-dub:hover {
+  color: gray;
+}
+.a-card-dub {
+  color: inherit;
+}
+.a-card-dub:hover {
+  color: gray;
+}
+.a-footer-dub {
+  color: gray;
+  font-size: small;
+}
+.a-footer-dub:hover {
+  color: white;
+}
+
+.text-gray {
+  color: gray;
+}
+.card-header-dub {
+  background-color: gray;
+  color: white;
+}
+.nowrap {
+  white-space: nowrap;
+}
+
+.btn-gray {
+    border-radius: 0;
+    background-color: gray;
+    color: #fff;
+}
+.btn-gray:hover {
+     background-color: #fff;
+     color: gray;
+}
+
+.btn-black {
+    border-radius: 0;
+    background-color: black;
+    color: #fff;
+}
+.btn-black:hover {
+     background-color: #fff;
+     color: black;
+}
+
+/* Font Awesome hatena bookmark */
+.fa-hatena:before {
+    content: "B!";
+    font-family: Verdana;
+    font-weight: bold
+}
+
+/*SNS Button*/
+.facebook-dub {
+  color: gray;
+}
+.facebook-dub:hover {
+  color: #3B5999;
+}
+
+.twitter-dub {
+  color: gray;
+}
+.twitter-dub:hover {
+  color: #1B95E0;
+}
+
+.hatena-dub {
+  color: gray;
+}
+.hatena-dub:hover {
+  color: #008FDE
+}
+
+.pocket-dub {
+  color: gray;
+}
+.pocket-dub:hover {
+  color: #EE4056;
+}
+
+.line-dub {
+  color: gray;
+}
+.line-dub:hover {
+  color: #00C300;
+}
+
+.dd-dub a{
+  color: inherit;
+}
+.dd-dub a:hover {
+  color: gray;
+}
+
+.message {
+  position: relative;
+  padding: .75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+}
+
+.alert-message {
+  color: #721c24;
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+}
+
+.error-message {
+  color: pink;
+}
+
+.form-group > label {
+  font-size: 0.8rem;
+  color:gray;
+}

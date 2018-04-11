@@ -1,0 +1,4 @@
+"id","mail_content_id","no","name","field_name","type","head","attention","before_attachment","after_attachment","source","size","rows","maxlength","options","class","separator","default_value","description","group_field","group_valid","valid","valid_ex","auto_convert","not_empty","use_field","no_send","sort","created","modified"
+"16","1","17","お問い合わせ内容","message","textarea","内容","","","","","","5","","","","","","","","","VALID_NOT_EMPTY","","","","1","","18","2018-03-24 19:56:02","2018-04-04 17:35:39"
+"20","1","18","お名前","name","text","お名前","","","","","","","100","","","","","","","","VALID_NOT_EMPTY","","","","1","","16","2018-04-04 14:52:24","2018-04-04 17:36:47"
+"21","1","19","メールアドレス","mail","email","メールアドレス","","","","","","","100","","","","","","","","VALID_EMAIL","","","","1","","17","2018-04-04 14:53:23","2018-04-04 14:53:54"
