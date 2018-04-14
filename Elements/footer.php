@@ -15,7 +15,7 @@
 <li><a href="http://dubmilli.com/" class="a-footer-dub">HOME:ホーム</a></li>
 <li><a href="/about" class="a-footer-dub">ABOUT:会社概要</a></li>
 <li><a href="/works/" class="a-footer-dub">WORKS:実績</a></li>
-<li><a href="/service" class="a-footer-dub">SERVICE:ホームページ作成</a></li>
+<li><a href="/service" class="a-footer-dub">SERVICE:ホームページ制作</a></li>
 <li><a href="/news/" class="a-footer-dub">NEWS:お知らせ</a></li>
 <li><a href="/contact/" class="a-footer-dub">CONTACT:お問合せ</a></li>
 </ul>

@@ -44,8 +44,10 @@ if(!isset($currentId)) {
 						$options = ['target' => '_blank'];
 					}
 					$options = ['class' => 'nav-link'];
+					$title = $this->Dub->getFirstTitle($content['Content']['title']);
 					?>
-					<li class="nav-item <?php echo $liClass ?>"><?php $this->BcBaser->link($content['Content']['title'], $this->BcBaser->getContentsUrl($content['Content']['url'], false, null, false), $options) ?>
+					<li class="nav-item <?php echo $liClass ?>">
+						<?php $this->BcBaser->link($title, $this->BcBaser->getContentsUrl($content['Content']['url'], false, null, false), $options) ?>
 					</li>
 				<?php endif ?>
 			<?php endforeach; ?>

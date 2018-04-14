@@ -7,12 +7,6 @@ if (Configure::read('debug') == 0 && $mailContent['MailContent']['redirect_url']
 	$this->Html->meta(array('http-equiv' => 'Refresh'), null, array('content' => '5;url=' . $mailContent['MailContent']['redirect_url'], 'inline' => false));
 }
 ?>
-<div class="cover text-white text-center py-5">
-	<h1 class="display-4 md-4"><?php $this->BcBaser->contentsTitle() ?></h1>
-	<?php if ($this->Mail->descriptionExists()): ?>
-		<p class="lead"><?php $this->Mail->description() ?></p>
-	<?php endif ?>
-</div>
 <div class="container">
 <section class="my-5 mx-5">
 <h5>メール送信完了</h5>

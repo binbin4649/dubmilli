@@ -6,27 +6,9 @@
 $description = $this->Blog->getTitle() . '｜' . $this->Blog->getPostContent($post, false, false, 50);
 $this->BcBaser->setTitle($this->Blog->getPostTitle($post, false), false);
 $this->BcBaser->setDescription($description);
-$img_property = $this->Dub->getEyeCatchProperty($post);
-$uri = $this->BcBaser->getUri($this->Blog->getPostLinkUrl($post));
-$this->BcHtml->meta(array('property'=>'og:title', 'content'=>$this->Blog->getPostTitle($post, false)), null, array('inline'=>false));
-$this->BcHtml->meta(array('property'=>'og:type', 'content'=>'article'), null, array('inline'=>false));
-$this->BcHtml->meta(array('property'=>'og:url', 'content'=>$uri), null, array('inline'=>false));
-if($img_property){
-	$this->BcHtml->meta(array('property'=>'og:image', 'content'=>$img_property['uri']), null, array('inline'=>false));
-	$this->BcHtml->meta(array('property'=>'og:image:width', 'content'=>$img_property['width']), null, array('inline'=>false));
-	$this->BcHtml->meta(array('property'=>'og:image:height', 'content'=>$img_property['height']), null, array('inline'=>false));
-}
-$this->BcHtml->meta(array('property'=>'og:site_name', 'content'=>$this->BcBaser->getSiteName()), null, array('inline'=>false));
-$this->BcHtml->meta(array('property'=>'og:description', 'content'=>$description), null, array('inline'=>false));
-
+$uri = $this->BcBaser->getUri($this->BcBaser->getHere());
 $sharer_url = urlencode($uri);
 ?>
-<div class="cover text-white text-center py-5">
-	<h1 class="display-4 md-4"><?php $this->Blog->title() ?></h1>
-	<?php if ($this->Blog->descriptionExists()): ?>
-	<p class="lead"><?php $this->Blog->description(); ?></p>
-	<?php endif ?>
-</div>
 <div class="container">
 <section class="my-5 mx-md-3">
 	<h4><?php $this->Blog->postTitle($post, false) ?></h4>

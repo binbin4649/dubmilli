@@ -1,9 +1,5 @@
 <?php
 /**
- * ContestSampleHelper
- *
- * テーマで利用したヘルパー（表示用関数）を記載したい場合にはここに記載します。
- * クラス名は任意です。Helperフォルダに配置したヘルパーが利用できます。
  *
  * 利用例：<?php $this->ContestSample->show() ?>
  * <?php $this->Dub->topImage() ?>
@@ -31,15 +27,22 @@ class DubHelper extends BcBaserHelper {
 			}
 		}
 	}
-
-	public function getEyeCatchProperty($post){
-		if(!empty($post['BlogPost']['eye_catch'])){
-			$uri = $this->getUri('/files/blog/');
-			$uri = $uri.$post['BlogPost']['blog_content_id'].'/blog_posts/'.$post['BlogPost']['eye_catch'];
-			$image_info = getimagesize($uri);
-			return array('uri'=>$uri, 'width'=>$image_info[0], 'height'=>$image_info[1]);
+	
+	public function getFirstTitle($before_title){
+		$exp_title = explode(',', $before_title);
+		return $exp_title[0];
+	}
+	
+	public function firstTitle($before_title){
+		echo $this->getFirstTitle($before_title);
+	}
+	
+	public function secondTitle($before_title){
+		$exp_title = explode(',', $before_title);
+		if(!empty($exp_title[1])){
+			echo $exp_title[1];
 		}else{
-			return false;
+			echo '';
 		}
 	}
 

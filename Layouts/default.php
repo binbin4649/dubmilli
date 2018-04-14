@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <?php $this->BcBaser->metaDescription() ?>
     <?php $this->BcBaser->metaKeywords() ?>
+	<?php if(!empty($this->Ogp)) $this->Ogp->showOgp() ?>
     <?php $this->BcBaser->scripts() ?>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -22,12 +23,11 @@
     <?php $this->BcBaser->googleAnalytics() ?>
   </head>
   <body>
-
       <?php $this->BcBaser->globalMenu() ?>
       <?php $this->BcBaser->flash() ?>
   	<main>
       <?php if ($this->BcBaser->isHome()): ?>
-    		<div class="carousel slide" data-ride="carousel">
+    	<div class="carousel slide" data-ride="carousel">
     			<div class="carousel-inner">
     				<?php $this->Dub->topImage(); ?>
     			</div>
@@ -43,11 +43,18 @@
           </section>
         </div>
       <?php else: ?>
-
-    	<?php endif ?>
+      	<div class="cover text-white text-center py-5">
+      	<?php if($this->BcBaser->isBlog()): ?>
+      		<h1 class="display-4 md-4"><?php $this->Dub->firstTitle($this->Blog->getTitle()) ?></h1>
+	  		<p class="lead"><?php $this->Dub->secondTitle($this->Blog->getTitle()) ?></p>
+	  	<?php else: ?>
+	  		<h1 class="display-4 md-4"><?php $this->Dub->firstTitle($this->BcBaser->getContentsTitle()) ?></h1>
+	  		<p class="lead"><?php $this->Dub->secondTitle($this->BcBaser->getContentsTitle()) ?></p>
+	  	<?php endif; ?>
+	  	</div>
+      <?php endif ?>
       <?php $this->BcBaser->content() ?>
   	</main>
-
 		<?php $this->BcBaser->footer() ?>
     <p id="pageTop" style="display:none;"><a href="#"><i class="fa fa-angle-double-up"></i></a></p>
   </body>
