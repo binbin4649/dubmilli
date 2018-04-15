@@ -22,7 +22,6 @@ $sharer_url = urlencode($uri);
 	</p>
 	<div class="text-center mb-3">
 		<?php $this->Blog->eyeCatch($post, array('link' => false, 'class' => 'rounded img-thumbnail', 'imgsize'=>'large')); ?>
-		<!-- <img src="img/rawpixel-com-268378-unsplash.jpg" class="rounded img-thumbnail" alt="..."> -->
 	</div>
 	<p>
 		<?php echo $post['BlogPost']['detail']; ?>
