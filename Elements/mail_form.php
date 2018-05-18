@@ -49,8 +49,6 @@ $this->BcBaser->element('mail_token');
 <?php /* 送信ボタン */ ?>
 <div class="text-center my-5">
 	<?php if ($freezed): ?>
-		<!-- <?php echo $this->Mailform->submit('　' . __('書き直す') . '　', array('div' => false, 'class' => 'btn-red button form-submit', 'id' => 'BtnMessageBack')) ?>
-		<?php echo $this->Mailform->submit('　' . __('送信する') . '　', array('div' => false, 'class' => 'btn-red button form-submit', 'id' => 'BtnMessageSubmit')) ?> -->
 		<button type="submit" class="btn btn-black mr-3 form-submit" id="BtnMessageBack">　戻る　</button>
 		<button type="submit" class="btn btn-black form-submit" id="BtnMessageSubmit">　送信　</button>
 	<?php else: ?>
